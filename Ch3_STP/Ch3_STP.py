@@ -1,11 +1,11 @@
-# http://tinyurl.com/h4qntgk
-# Cory Althoff - the self-taught Programmer guide
+# https://www.theselftaughtprogrammer.io
+# Cory Althoff - The Self-taught Programmer
 # Chapter 3 - awykle - Practice 2019-04-04
 #-------------------------------------------
  
 
 #-------------------------------------------
-# EXAMPLE: pg13
+# EXAMPLE: pg 13
 #-------------------------------------------
 
 for i in range(100):
@@ -16,7 +16,7 @@ for i in range(100):
         #       > Use a \ to extend code to the next line
 
 #-------------------------------------------
-# EXAMPLE: pg16-17
+# EXAMPLE: pg 16-17
 #-------------------------------------------
 
 print\
@@ -100,6 +100,110 @@ print(my_boolean)
         #               - Unlike syntax errors, exception errors are NOT necessarily fatal (the program may still be able to run)
         #               - Another common error is IndentationError
 
+
+#-------------------------------------------
+# EXAMPLE: pg 27-28
+#-------------------------------------------
+
+        # TIP--->               ARITHMETIC OPERATORS 
+        #       -------------------------------------------------------------
+        #       Operator: | Meaning:            | Example:    | Evaluates to:
+        #       -------------------------------------------------------------
+        #           **      Exponent              2 ** 2        4
+        #           %       Modulo/Remainder      14 % 4        2
+        #           //      Int Div/Floored Quot  13 // 8       1
+        #           /       Division              13 / 8        1.625
+        #           *       Multiplication        8 * 2         16
+        #           -       Subtraction           7 - 1         6
+        #           +       Addition              2 + 2         4
+        #       -------------------------------------------------------------    
+
+
+        # TIP---> When you use a modulo on two numbers, if there is no remainder (modulo returns 0), the number is even, otherwise it is odd.
+
+# even
+print(12 % 2)
+
+# odd
+print(11 % 2)
+
+# division to return the floored quotient as an int
+print(14 // 3)
+
+# division to return a floating point 
+print(14 / 3)
+
+# exponent
+print(2 ** 2)     
+
+#-------------------------------------------
+# EXAMPLE: pg 29
+#-------------------------------------------
+
+        # TIP---> Order of operations, remember: "Please Excuse My Dear Aunt Sally"
+
+print(2 + 2 * 2)
+
+print((2 + 2) * 2)
+
+#-------------------------------------------
+# EXAMPLE: pg 29-32
+#-------------------------------------------
+
+        # TIP--->               COMPARISON OPERATORS 
+        #       ---------------------------------------------------------------
+        #       Operator: | Meaning:              | Example:    | Evaluates to:
+        #       ---------------------------------------------------------------
+        #           >     Greater than              100 > 2         True
+        #           <     Less than                 100 < 10        False
+        #           >=    Greater than or equal to  2 <= 2          True
+        #           <=    Less than or equal to     1 <= 4          True
+        #           ==    Equal                     6 == 9          False
+        #           !=    Not Equal                 3 != 2          True
+        #       ---------------------------------------------------------------
+
+        # TIP---> Remember that a single = is used to make an assignment NOT the same as ==
+
+print(100 > 10)
+
+print(100 < 10)
+
+print(2 >= 2)
+
+print(2 <= 2)
+
+print(2 == 2)
+
+print(1 == 2)
+
+print(1 != 2)
+
+print(2 != 2)
+
+#-------------------------------------------
+# EXAMPLE: pg 32-35
+#-------------------------------------------
+
+        # TIP--->               LOGICAL OPERATORS 
+        #       ---------------------------------------------------------------
+        #       Operator: | Meaning:      | Example:            | Evaluates to:
+        #       ---------------------------------------------------------------
+        #           and         and         True and True           True
+        #           or          or          True or False           True
+        #           not         not         not True                False
+        #       ---------------------------------------------------------------
+
+
+
+
+
+#-------------------------------------------
+# EXAMPLE: pg 
+#-------------------------------------------
+
+#-------------------------------------------
+# EXAMPLE: pg 
+#-------------------------------------------
 
 #-------------------------------------------
 # EXAMPLE: pg 
