@@ -3,13 +3,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>becfcd24-ad4d-497a-82b3-2d71b46d8063</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
-    <StartupFile>_1PythonShell_Practice04042019.py</StartupFile>
+    <ProjectHome>
+    </ProjectHome>
+    <StartupFile>Chapter3_STP.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>1PythonShell_Practice04042019</Name>
+    <Name>Ch3_STP</Name>
     <RootNamespace>1PythonShell_Practice04042019</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -21,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="_1PythonShell_Practice04042019.py" />
+    <Compile Include="Chapter3_STP.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
