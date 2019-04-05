@@ -1,8 +1,7 @@
 # https://www.theselftaughtprogrammer.io
 # Cory Althoff - The Self-taught Programmer
-# Chapter 3 - awykle - Practice 2019-04-04
+# Chapter 3 - hashtagallison - Practice 2019-04-04
 #-------------------------------------------
- 
 
 #-------------------------------------------
 # EXAMPLE: pg 13
@@ -193,26 +192,31 @@ print(2 != 2)
         #           not         not         not True                False
         #       ---------------------------------------------------------------
 
+print(1 == 1 and 2 == 2)
+
+print(1 == 2 and 2 == 2)
+
+print(1 == 2 and 2 == 1)
+
+print(2 == 1 and 1 == 1)
+
+print(1 == 1 and 10 != 2 and 2 < 10)
+
+print(1 == 1 or 1 == 2)
+
+print(1 == 1 or 2 == 2)
+
+print(1 == 2 or 2 == 1)
+
+print(1 == 1 or 1 == 2 or 1 == 3)
+
+
+        # TIP---> placing the keyword not in front of an expression will change the result of the evaluation
+        #         to the opposite of what it would have otherwise evaluated to.
+
+print(not 1 == 1)
+
+print(not 1 == 2)
 
 
 
-
-#-------------------------------------------
-# EXAMPLE: pg 
-#-------------------------------------------
-
-#-------------------------------------------
-# EXAMPLE: pg 
-#-------------------------------------------
-
-#-------------------------------------------
-# EXAMPLE: pg 
-#-------------------------------------------
-
-#-------------------------------------------
-# EXAMPLE: pg 
-#-------------------------------------------
-
-#-------------------------------------------
-# EXAMPLE: pg 
-#-------------------------------------------
