@@ -2,7 +2,7 @@
 Python practice 
 
 
-This project contains my personal notes, practice, exercises related to learning Python.
+This repository contains my personal notes, practice, exercises related to learning Python.
 
 
 Practice_STP folder contains exercises adapted from The Self-taught Programmer book by Cory Althoff.
