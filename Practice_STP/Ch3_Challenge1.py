@@ -1,12 +1,12 @@
 # https://www.theselftaughtprogrammer.io
 # Cory Althoff - The Self-taught Programmer
-# Chapter 3 pg 44 - Challenges
-# hashtagallison - Practice 2019-04-05
+# Chapter 0 pg 0 - Challenges
+# hashtagallison - Practice 2019-00-00
 #-------------------------------------------
 
 #-------------------------------------------
-#       CHAPTER 3: CHALLENGES
-#               - Official Answer Key: http://tinyurl.com/zx7o2v9  (Don't look until you try for yourself!!)
+#       CHAPTER 0: CHALLENGES
+#               - Official Answer Key: http://  (Don't look until you try for yourself!!)
 #-------------------------------------------
 
 
