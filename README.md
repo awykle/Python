@@ -1,11 +1,14 @@
 # Python
 Python practice 
 
-Official repository:
-https://github.com/calthoff/self_taught
 
-This project contains my personal notes, practice, excersises and other related 
-content, adapted from The Self-taught Programmer guide by Cory Althoff.
+This project contains my personal notes, practice, exercises related to learning Python.
 
-Cory Althoff - The Self-taught Programmer
-https://www.theselftaughtprogrammer.io
+
+Practice_STP folder contains exercises adapted from The Self-taught Programmer book by Cory Althoff.
+
+  Official repository:
+  https://github.com/calthoff/self_taught
+
+  Cory Althoff - The Self-taught Programmer
+  https://www.theselftaughtprogrammer.io
