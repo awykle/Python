@@ -1,6 +1,6 @@
 # https://www.theselftaughtprogrammer.io
 # Cory Althoff - The Self-taught Programmer
-# Chapter 3 pg 13 - Intro to Programming
+# Chapter 3.1 pg 13 - Intro to Programming
 # hashtagallison - Practice 2019-04-04
 #-------------------------------------------
 
